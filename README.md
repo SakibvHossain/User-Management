@@ -1,10 +1,10 @@
 # Backend for User Management System
 Created a comprehensive backend system to manage user:  
-• Implemented CRUD operations for user details.
-• Created RESTful APIs, ensuring efficient communication between services.
-• Handling exceptions for unwanted API calls.
-• Generated Swagger-based API documentation for easy usage and understanding.
-• Implemented Spring security for securing the application.
+• Implemented CRUD operations for user details.  
+• Created RESTful APIs, ensuring efficient communication between services.  
+• Handling exceptions for unwanted API calls.  
+• Generated Swagger-based API documentation for easy usage and understanding.  
+• Implemented Spring security for securing the application.  
    
 ![user management](https://github.com/SakibvHossain/User-Management/assets/92059000/755bb490-8ab7-4bc7-bfee-49ab5666a10c)
 
